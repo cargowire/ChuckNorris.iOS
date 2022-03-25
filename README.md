@@ -4,4 +4,4 @@
 
 ## Screenshots
 
-![Home](READMEAssets/Home.png) ![Home with Joke](READMEAssets/HomeJoke.png) ![Joke List](READMEAssets/JokeList.png) ![Joke List Search](READMEAssets/JokeListSearch.png) ![Settings](READMEAssets/Settings.png)
+<img title="Home" src="READMEAssets/Home.png" width="300" /> <img title="Home with Joke" src="READMEAssets/HomeJoke.png" width="300" /> <img title="Joke List" src="READMEAssets/JokeList.png" width="300" /> <img title="Joke List Search" src="READMEAssets/JokeListSearch.png" width="300" /> <img title="Settings" src="READMEAssets/Settings.png" width="300" />
